@@ -1,1 +1,1 @@
-Please read the python write up document.
+# Developed Jupyter notebook to analyse data using simple python testing the code’s usability with various datasets and comparing its performance to specialised libraries like NumPy and Pandas. I also investigated the usefulness of utilising ChatGPT and other AI-driven solutions to help with these chores.
